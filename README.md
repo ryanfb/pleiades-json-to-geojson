@@ -8,4 +8,4 @@ Requirements:
 
 Usage:
 
-    ./pleiades-json-to-geojson.rb pleiades-places-latest.json > pleiades-pleiades-latest.geojson
+    ./pleiades-json-to-geojson.rb pleiades-places-latest.json > pleiades-places-latest.geojson
